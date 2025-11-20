@@ -1,0 +1,1 @@
+This is just a sample Text File for Git tutorial.
